@@ -9,7 +9,7 @@
 
 # Useful
 
-- [SlurpFN](https://discord.gg/ncgeJPnAnC) - Chapter 2 Season 2 OGFN Project
+- [SlurpFN](https://discord.gg/ncgeJPnAnC) - My Chapter 2 Season 2 OGFN Project
    
 # Socials 
 
