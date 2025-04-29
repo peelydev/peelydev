@@ -1,5 +1,4 @@
-![Banner](https://cdn2.unrealengine.com/12br-loserfruit-blogheader-1920x1080-257064747.jpg)
- 
+
 # About
 
 - Developing in C#, C++, JS, TypeScript 🎮
